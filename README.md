@@ -12,3 +12,7 @@ Assumptions I have made in producing this program are:
   -The amount of paint needed to pain the alcove of a window is similar to that of the wall space the window takes up.
   
   -The room is painted with a single coat of paint.
+  
+  -The room only has one door
+  
+  -1 litre of paint covers 10m^2 of wall (as suggested on the B&Q Wall Painting Calculator: http://www.diy.com/help-advice/wall-painting-calculator/Dev_npcart_100008.art)
